@@ -1,0 +1,7 @@
+c:\users\jhedrick\source\repos\PrimeStringIdCSharp\PrimeStringIdCSharp\bin\Debug\PrimeStringIdCSharp.exe.config
+c:\users\jhedrick\source\repos\PrimeStringIdCSharp\PrimeStringIdCSharp\bin\Debug\PrimeStringIdCSharp.exe
+c:\users\jhedrick\source\repos\PrimeStringIdCSharp\PrimeStringIdCSharp\bin\Debug\PrimeStringIdCSharp.pdb
+c:\users\jhedrick\source\repos\PrimeStringIdCSharp\PrimeStringIdCSharp\obj\Debug\PrimeStringIdCSharp.csprojAssemblyReference.cache
+c:\users\jhedrick\source\repos\PrimeStringIdCSharp\PrimeStringIdCSharp\obj\Debug\PrimeStringIdCSharp.csproj.CoreCompileInputs.cache
+c:\users\jhedrick\source\repos\PrimeStringIdCSharp\PrimeStringIdCSharp\obj\Debug\PrimeStringIdCSharp.exe
+c:\users\jhedrick\source\repos\PrimeStringIdCSharp\PrimeStringIdCSharp\obj\Debug\PrimeStringIdCSharp.pdb
